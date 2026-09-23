@@ -454,3 +454,6 @@
 {"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west stair. direct left open. 4 steps. The radio coil stays for the hit."}
 {"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Drydock. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":456,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west stair. Ivo keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":457,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. direct left open. 7 steps. The radio coil stays for the hit."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Drydock. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":459,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west stair. Bess keeps the radio coil for the hit. 2 steps, direct on the left lane, open."}
