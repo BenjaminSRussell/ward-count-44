@@ -583,3 +583,6 @@
 {"n":583,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north gutter. direct left open. 6 steps. The plywood stays for the hit."}
 {"n":584,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at High line. Nobody past the north gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":585,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line north gutter. Nia keeps the plywood for the hit. 8 steps, direct on the left lane, open."}
+{"n":586,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north gutter. direct left open. 2 steps. The plywood stays for the hit."}
+{"n":587,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at High line. Nobody past the north gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":588,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north gutter. Ivo keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
