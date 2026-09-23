@@ -779,3 +779,6 @@
 {"n":779,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the awning for the hit. 5 steps, direct on the left lane, open."}
 {"n":780,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. direct left open. 6 steps. The awning stays for the hit."}
 {"n":781,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the north gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":782,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north gutter. Matt keeps the awning for the hit. 8 steps, direct on the left lane, open."}
+{"n":783,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north gutter. direct left open. 2 steps. The awning stays for the hit."}
+{"n":784,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the north gutter. We hit in 3 steps. Direct on the left lane, open."}
