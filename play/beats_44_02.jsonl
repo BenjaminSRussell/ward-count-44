@@ -304,3 +304,6 @@
 {"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the north gutter. We hit in 6 steps. Direct on the left lane, open."}
 {"n":305,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north gutter. Nia keeps the rebar for the hit. 7 steps, direct on the left lane, open."}
 {"n":306,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north gutter. direct left open. 8 steps. The rebar stays for the hit."}
+{"n":307,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Stockyard fence. Nobody past the north gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":308,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north gutter. Ivo keeps the rebar for the hit. 3 steps, direct on the left lane, open."}
+{"n":309,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north gutter. direct left open. 4 steps. The rebar stays for the hit."}
