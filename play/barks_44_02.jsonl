@@ -746,3 +746,6 @@
 {"n":746,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north gutter. Matt keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
 {"n":747,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. direct left open. 8 steps. The shutter stays for the hit."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Drydock. Nobody past the north gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":749,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north gutter. Nia keeps the shutter for the hit. 3 steps, direct on the left lane, open."}
+{"n":750,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. direct left open. 4 steps. The shutter stays for the hit."}
+{"n":751,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Drydock. Nobody past the north gutter. We hit in 5 steps. Direct on the left lane, open."}
