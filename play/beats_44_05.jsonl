@@ -835,3 +835,6 @@
 {"n":835,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the west stair. We hit in 2 steps. Direct on the left lane, open."}
 {"n":836,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west stair. Ivo keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
 {"n":837,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west stair. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":839,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence west stair. Bess keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
+{"n":840,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west stair. direct left open. 7 steps. The barrel stays for the hit."}
