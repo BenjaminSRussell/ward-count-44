@@ -673,3 +673,6 @@
 {"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east stair. direct left open. 6 steps. The hydrant stays for the hit."}
 {"n":674,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at the Lot. Nobody past the east stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":675,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east stair. Bess keeps the hydrant for the hit. 8 steps, direct on the left lane, open."}
+{"n":676,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. direct left open. 2 steps. The hydrant stays for the hit."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":678,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence east stair. Matt keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
