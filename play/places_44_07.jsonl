@@ -349,3 +349,6 @@
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west stair. direct left open. 4 steps. The radio coil stays for the hit."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":351,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence west stair. Bess keeps the radio coil for the hit. 6 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west stair. direct left open. 7 steps. The radio coil stays for the hit."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mall court. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":354,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west stair. Matt keeps the radio coil for the hit. 2 steps, direct on the left lane, open."}
