@@ -469,3 +469,6 @@
 {"n":469,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north gutter. direct left open. 4 steps. The plywood stays for the hit."}
 {"n":470,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the north gutter. We hit in 5 steps. Direct on the left lane, open."}
 {"n":471,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north gutter. Bess keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":472,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north gutter. direct left open. 7 steps. The plywood stays for the hit."}
+{"n":473,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Mall court. Nobody past the north gutter. We hit in 8 steps. Direct on the left lane, open."}
+{"n":474,"kind":"place","name":"Mall court north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north gutter. Matt keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
