@@ -811,3 +811,6 @@
 {"n":811,"kind":"place","name":"the Lot south gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south gutter. Bess keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
 {"n":812,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south gutter. direct left open. 2 steps. The barrel stays for the hit."}
 {"n":813,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the south gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":814,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south gutter. Matt keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
+{"n":815,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south gutter. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":816,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the south gutter. We hit in 6 steps. Direct on the left lane, open."}
