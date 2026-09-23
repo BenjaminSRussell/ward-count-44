@@ -676,3 +676,6 @@
 {"n":676,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Mast yard. Nobody past the north gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":677,"kind":"place","name":"Mast yard north gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north gutter. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
 {"n":678,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north gutter. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":679,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the north gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":680,"kind":"place","name":"Mast yard north gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north gutter. Ivo keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":681,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north gutter. direct left open. 5 steps. The shutter stays for the hit."}
