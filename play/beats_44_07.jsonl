@@ -884,3 +884,6 @@
 {"n":884,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Mast yard. Nobody past the east stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":885,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east stair. Nia keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
 {"n":886,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. direct left open. 2 steps. The barrel stays for the hit."}
+{"n":887,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mast yard. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":888,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
+{"n":889,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. direct left open. 5 steps. The barrel stays for the hit."}
