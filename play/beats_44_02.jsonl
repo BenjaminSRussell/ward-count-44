@@ -166,3 +166,6 @@
 {"n":166,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the north gutter. We hit in 8 steps. Direct on the left lane, open."}
 {"n":167,"kind":"place","name":"the Underpass north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass north gutter. Bess keeps the lamp for the hit. 2 steps, direct on the left lane, open."}
 {"n":168,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north gutter. direct left open. 3 steps. The lamp stays for the hit."}
+{"n":169,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Mast yard. Nobody past the north gutter. We hit in 4 steps. Direct on the left lane, open."}
+{"n":170,"kind":"place","name":"Mast yard north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north gutter. Matt keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
+{"n":171,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north gutter. direct left open. 6 steps. The lamp stays for the hit."}
