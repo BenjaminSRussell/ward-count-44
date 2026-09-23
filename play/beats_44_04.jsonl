@@ -755,3 +755,6 @@
 {"n":755,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Switchyard. Nobody past the south gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":756,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard south gutter. Ivo keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
 {"n":757,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south gutter. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":758,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Switchyard. Nobody past the south gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":759,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south gutter. Bess keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":760,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south gutter. direct left open. 5 steps. The shutter stays for the hit."}
