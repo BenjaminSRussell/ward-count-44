@@ -910,3 +910,6 @@
 {"n":910,"kind":"place","name":"Last Light north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north stair. Matt keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
 {"n":911,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north stair. direct left open. 4 steps. The barrel stays for the hit."}
 {"n":912,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Last Light. Nobody past the north stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":913,"kind":"place","name":"Last Light north stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light north stair. Nia keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
+{"n":914,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north stair. direct left open. 7 steps. The barrel stays for the hit."}
+{"n":915,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Last Light. Nobody past the north stair. We hit in 8 steps. Direct on the left lane, open."}
