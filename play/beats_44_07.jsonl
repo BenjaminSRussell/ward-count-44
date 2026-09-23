@@ -359,3 +359,6 @@
 {"n":359,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mall court. Nobody past the west stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":360,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court west stair. Ivo keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
 {"n":361,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west stair. direct left open. 2 steps. The radio coil stays for the hit."}
+{"n":362,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mall court. Nobody past the west stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":363,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court west stair. Bess keeps the radio coil for the hit. 4 steps, direct on the left lane, open."}
+{"n":364,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west stair. direct left open. 5 steps. The radio coil stays for the hit."}
