@@ -756,3 +756,6 @@
 {"n":756,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Drydock. Nobody past the south gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":757,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south gutter. Nia keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
 {"n":758,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south gutter. direct left open. 4 steps. The hydrant stays for the hit."}
+{"n":759,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Drydock. Nobody past the south gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":760,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south gutter. Ivo keeps the hydrant for the hit. 6 steps, direct on the left lane, open."}
+{"n":761,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south gutter. direct left open. 7 steps. The hydrant stays for the hit."}
