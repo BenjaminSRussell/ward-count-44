@@ -182,3 +182,6 @@
 {"n":182,"kind":"place","name":"Last Light north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north gutter. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
 {"n":183,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north gutter. direct left open. 4 steps. The lamp stays for the hit."}
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the north gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":185,"kind":"place","name":"Last Light north gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light north gutter. Nia keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
+{"n":186,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north gutter. direct left open. 7 steps. The lamp stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Last Light. Nobody past the north gutter. We hit in 8 steps. Direct on the left lane, open."}
