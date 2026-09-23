@@ -66,3 +66,6 @@
 {"n":66,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the east stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":67,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east stair. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
 {"n":68,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east stair. direct left open. 8 steps. The drum stays for the hit."}
+{"n":69,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Last Light. Nobody past the east stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":70,"kind":"place","name":"Last Light east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east stair. Matt keeps the drum for the hit. 3 steps, direct on the left lane, open."}
+{"n":71,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east stair. direct left open. 4 steps. The drum stays for the hit."}
