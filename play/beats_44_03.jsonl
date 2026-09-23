@@ -828,3 +828,6 @@
 {"n":828,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Mall court. Nobody past the south gutter. We hit in 4 steps. Direct on the left lane, open."}
 {"n":829,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south gutter. Nia keeps the barrel for the hit. 5 steps, direct on the left lane, open."}
 {"n":830,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south gutter. direct left open. 6 steps. The barrel stays for the hit."}
+{"n":831,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mall court. Nobody past the south gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":832,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south gutter. Ivo keeps the barrel for the hit. 8 steps, direct on the left lane, open."}
+{"n":833,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south gutter. direct left open. 2 steps. The barrel stays for the hit."}
