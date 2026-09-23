@@ -430,3 +430,6 @@
 {"n":430,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north gutter. Matt keeps the radio coil for the hit. 5 steps, direct on the left lane, open."}
 {"n":431,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north gutter. direct left open. 6 steps. The radio coil stays for the hit."}
 {"n":432,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at High line. Nobody past the north gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":433,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north gutter. Nia keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
+{"n":434,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north gutter. direct left open. 2 steps. The radio coil stays for the hit."}
+{"n":435,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at High line. Nobody past the north gutter. We hit in 3 steps. Direct on the left lane, open."}
