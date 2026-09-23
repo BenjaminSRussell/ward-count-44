@@ -818,3 +818,6 @@
 {"n":818,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mall court. Nobody past the north gutter. We hit in 3 steps. Direct on the left lane, open."}
 {"n":819,"kind":"place","name":"Mall court north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north gutter. Bess keeps the barrel for the hit. 4 steps, direct on the left lane, open."}
 {"n":820,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north gutter. direct left open. 5 steps. The barrel stays for the hit."}
+{"n":821,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Underpass. Nobody past the north gutter. We hit in 6 steps. Direct on the left lane, open."}
+{"n":822,"kind":"place","name":"the Underpass north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass north gutter. Matt keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
+{"n":823,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north gutter. direct left open. 8 steps. The barrel stays for the hit."}
