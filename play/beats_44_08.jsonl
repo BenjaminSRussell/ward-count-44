@@ -853,3 +853,6 @@
 {"n":853,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Stockyard fence. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
 {"n":854,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east stair. Matt keeps the awning for the hit. 4 steps, direct on the left lane, open."}
 {"n":855,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east stair. direct left open. 5 steps. The awning stays for the hit."}
+{"n":856,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Stockyard fence. Nobody past the east stair. We hit in 6 steps. Direct on the left lane, open."}
+{"n":857,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the awning for the hit. 7 steps, direct on the left lane, open."}
+{"n":858,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. direct left open. 8 steps. The awning stays for the hit."}
