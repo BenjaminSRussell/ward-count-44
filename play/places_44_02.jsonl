@@ -408,3 +408,6 @@
 {"n":408,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north gutter. direct left open. 5 steps. The rebar stays for the hit."}
 {"n":409,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Drydock. Nobody past the north gutter. We hit in 6 steps. Direct on the left lane, open."}
 {"n":410,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north gutter. Matt keeps the rebar for the hit. 7 steps, direct on the left lane, open."}
+{"n":411,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. direct left open. 8 steps. The rebar stays for the hit."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Drydock. Nobody past the north gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":413,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north gutter. Nia keeps the rebar for the hit. 3 steps, direct on the left lane, open."}
