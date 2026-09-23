@@ -723,3 +723,6 @@
 {"n":723,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east stair. direct left open. 6 steps. The shutter stays for the hit."}
 {"n":724,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Mast yard. Nobody past the east stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":725,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east stair. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
+{"n":726,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":727,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":728,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
