@@ -769,3 +769,6 @@
 {"n":769,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Drydock. Nobody past the west stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":770,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west stair. Matt keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
 {"n":771,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west stair. direct left open. 8 steps. The hydrant stays for the hit."}
+{"n":772,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Drydock. Nobody past the west stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":773,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west stair. Nia keeps the hydrant for the hit. 3 steps, direct on the left lane, open."}
+{"n":774,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west stair. direct left open. 4 steps. The hydrant stays for the hit."}
