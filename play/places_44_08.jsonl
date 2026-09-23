@@ -807,3 +807,6 @@
 {"n":807,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. direct left open. 6 steps. The shutter stays for the hit."}
 {"n":808,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at High line. Nobody past the east stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":809,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line east stair. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
+{"n":810,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east stair. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":811,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":812,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line east stair. Ivo keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
