@@ -210,3 +210,6 @@
 {"n":210,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east stair. direct left open. 4 steps. The lamp stays for the hit."}
 {"n":211,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Underpass. Nobody past the east stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":212,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
+{"n":213,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. direct left open. 7 steps. The lamp stays for the hit."}
+{"n":214,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the east stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":215,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east stair. Bess keeps the lamp for the hit. 2 steps, direct on the left lane, open."}
