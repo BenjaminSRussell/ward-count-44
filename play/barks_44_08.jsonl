@@ -302,3 +302,6 @@
 {"n":302,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line east stair. Matt keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
 {"n":303,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. direct left open. 6 steps. The lamp stays for the hit."}
 {"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at High line. Nobody past the east stair. We hit in 7 steps. Direct on the left lane, open."}
+{"n":305,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line east stair. Nia keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":306,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east stair. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":307,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at High line. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
