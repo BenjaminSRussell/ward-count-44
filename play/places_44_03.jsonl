@@ -839,3 +839,6 @@
 {"n":839,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. direct left open. 8 steps. The barrel stays for the hit."}
 {"n":840,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at the Underpass. Nobody past the south gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":841,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass south gutter. Nia keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":842,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south gutter. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":843,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Underpass. Nobody past the south gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":844,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the barrel for the hit. 6 steps, direct on the left lane, open."}
