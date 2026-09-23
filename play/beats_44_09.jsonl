@@ -360,3 +360,6 @@
 {"n":360,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the east stair. We hit in 6 steps. Direct on the left lane, open."}
 {"n":361,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the radio coil for the hit. 7 steps, direct on the left lane, open."}
 {"n":362,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. direct left open. 8 steps. The radio coil stays for the hit."}
+{"n":363,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Stockyard fence. Nobody past the east stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":364,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":365,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. direct left open. 4 steps. The radio coil stays for the hit."}
