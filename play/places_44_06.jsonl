@@ -26,3 +26,6 @@
 {"n":26,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west stair. direct left open. 4 steps. The crate stays for the hit."}
 {"n":27,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":28,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass west stair. Ivo keeps the crate for the hit. 6 steps, direct on the left lane, open."}
+{"n":29,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west stair. direct left open. 7 steps. The crate stays for the hit."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Underpass. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":31,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass west stair. Bess keeps the crate for the hit. 2 steps, direct on the left lane, open."}
