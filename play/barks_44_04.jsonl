@@ -186,3 +186,6 @@
 {"n":186,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard south gutter. Matt keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
 {"n":187,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south gutter. direct left open. 6 steps. The lamp stays for the hit."}
 {"n":188,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Mast yard. Nobody past the south gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":189,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south gutter. Nia keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":190,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south gutter. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":191,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mast yard. Nobody past the south gutter. We hit in 3 steps. Direct on the left lane, open."}
