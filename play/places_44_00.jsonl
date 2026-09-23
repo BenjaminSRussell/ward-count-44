@@ -164,3 +164,6 @@
 {"n":164,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east gutter. direct left open. 8 steps. The lamp stays for the hit."}
 {"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the east gutter. We hit in 2 steps. Direct on the left lane, open."}
 {"n":166,"kind":"place","name":"Last Light east gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east gutter. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
+{"n":167,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east gutter. direct left open. 4 steps. The lamp stays for the hit."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the east gutter. We hit in 5 steps. Direct on the left lane, open."}
+{"n":169,"kind":"place","name":"Last Light east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light east gutter. Nia keeps the lamp for the hit. 6 steps, direct on the left lane, open."}
