@@ -232,3 +232,6 @@
 {"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south gutter. direct left open. 2 steps. The lamp stays for the hit."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Clinic roof. Nobody past the south gutter. We hit in 3 steps. Direct on the left lane, open."}
 {"n":234,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south gutter. Matt keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":235,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south gutter. direct left open. 5 steps. The lamp stays for the hit."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Clinic roof. Nobody past the south gutter. We hit in 6 steps. Direct on the left lane, open."}
+{"n":237,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south gutter. Nia keeps the lamp for the hit. 7 steps, direct on the left lane, open."}
