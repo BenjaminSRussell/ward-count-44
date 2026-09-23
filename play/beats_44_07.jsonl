@@ -287,3 +287,6 @@
 {"n":287,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Drydock. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
 {"n":288,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock west stair. Ivo keeps the badge door for the hit. 6 steps, direct on the left lane, open."}
 {"n":289,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. direct left open. 7 steps. The badge door stays for the hit."}
+{"n":290,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Drydock. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
+{"n":291,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west stair. Bess keeps the badge door for the hit. 2 steps, direct on the left lane, open."}
+{"n":292,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west stair. direct left open. 3 steps. The badge door stays for the hit."}
