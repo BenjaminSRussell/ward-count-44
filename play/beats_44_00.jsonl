@@ -93,3 +93,6 @@
 {"n":93,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the east gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":94,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east gutter. Matt keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
 {"n":95,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east gutter. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the east gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":97,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east gutter. Nia keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
+{"n":98,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east gutter. direct left open. 5 steps. The lamp stays for the hit."}
