@@ -59,3 +59,6 @@
 {"n":59,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Last Light. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
 {"n":60,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west stair. Ivo keeps the drum for the hit. 2 steps, direct on the left lane, open."}
 {"n":61,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west stair. direct left open. 3 steps. The drum stays for the hit."}
+{"n":62,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Last Light. Nobody past the west stair. We hit in 4 steps. Direct on the left lane, open."}
+{"n":63,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light west stair. Bess keeps the drum for the hit. 5 steps, direct on the left lane, open."}
+{"n":64,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west stair. direct left open. 6 steps. The drum stays for the hit."}
