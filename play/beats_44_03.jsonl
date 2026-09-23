@@ -72,3 +72,6 @@
 {"n":72,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Switchyard. Nobody past the north gutter. We hit in 4 steps. Direct on the left lane, open."}
 {"n":73,"kind":"place","name":"Switchyard north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north gutter. Nia keeps the drum for the hit. 5 steps, direct on the left lane, open."}
 {"n":74,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north gutter. direct left open. 6 steps. The drum stays for the hit."}
+{"n":75,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Switchyard. Nobody past the north gutter. We hit in 7 steps. Direct on the left lane, open."}
+{"n":76,"kind":"place","name":"Switchyard north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north gutter. Ivo keeps the drum for the hit. 8 steps, direct on the left lane, open."}
+{"n":77,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north gutter. direct left open. 2 steps. The drum stays for the hit."}
