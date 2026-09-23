@@ -12,3 +12,6 @@
 {"n":12,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence west stair. Ivo keeps the drum for the hit. 3 steps, direct on the left lane, open."}
 {"n":13,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west stair. direct left open. 4 steps. The drum stays for the hit."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Stockyard fence. Nobody past the west stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":15,"kind":"place","name":"Stockyard fence west stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west stair. Bess keeps the drum for the hit. 6 steps, direct on the left lane, open."}
+{"n":16,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west stair. direct left open. 7 steps. The drum stays for the hit."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mall court. Nobody past the west stair. We hit in 8 steps. Direct on the left lane, open."}
