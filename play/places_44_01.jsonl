@@ -1,3 +1,6 @@
 {"n":1,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east gutter. direct left open. 5 steps. The drum stays for the hit."}
 {"n":2,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the east gutter. We hit in 6 steps. Direct on the left lane, open."}
 {"n":3,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard east gutter. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
+{"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east gutter. direct left open. 8 steps. The drum stays for the hit."}
+{"n":5,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Last Light. Nobody past the east gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":6,"kind":"place","name":"Last Light east gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east gutter. Matt keeps the drum for the hit. 3 steps, direct on the left lane, open."}
