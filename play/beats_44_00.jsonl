@@ -213,3 +213,6 @@
 {"n":213,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Switchyard. Nobody past the east gutter. We hit in 8 steps. Direct on the left lane, open."}
 {"n":214,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the lamp for the hit. 2 steps, direct on the left lane, open."}
 {"n":215,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. direct left open. 3 steps. The lamp stays for the hit."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Switchyard. Nobody past the east gutter. We hit in 4 steps. Direct on the left lane, open."}
+{"n":217,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
+{"n":218,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east gutter. direct left open. 6 steps. The lamp stays for the hit."}
