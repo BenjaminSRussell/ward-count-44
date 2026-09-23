@@ -2,3 +2,6 @@
 {"n":2,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the south gutter. We hit in 3 steps. Direct on the left lane, open."}
 {"n":3,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south gutter. Bess keeps the crate for the hit. 4 steps, direct on the left lane, open."}
 {"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south gutter. direct left open. 5 steps. The crate stays for the hit."}
+{"n":5,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Underpass. Nobody past the south gutter. We hit in 6 steps. Direct on the left lane, open."}
+{"n":6,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south gutter. Matt keeps the crate for the hit. 7 steps, direct on the left lane, open."}
+{"n":7,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. direct left open. 8 steps. The crate stays for the hit."}
