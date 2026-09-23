@@ -129,3 +129,6 @@
 {"n":129,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east gutter. Nia keeps the badge door for the hit. 7 steps, direct on the left lane, open."}
 {"n":130,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east gutter. direct left open. 8 steps. The badge door stays for the hit."}
 {"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Stockyard fence. Nobody past the east gutter. We hit in 2 steps. Direct on the left lane, open."}
+{"n":132,"kind":"place","name":"Stockyard fence east gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east gutter. Ivo keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":133,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east gutter. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the east gutter. We hit in 5 steps. Direct on the left lane, open."}
