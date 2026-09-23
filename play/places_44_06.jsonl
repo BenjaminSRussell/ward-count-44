@@ -140,3 +140,6 @@
 {"n":140,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west stair. direct left open. 6 steps. The lamp stays for the hit."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west stair. We hit in 7 steps. Direct on the left lane, open."}
 {"n":142,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west stair. Matt keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":143,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west stair. direct left open. 2 steps. The lamp stays for the hit."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the west stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":145,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west stair. Nia keeps the lamp for the hit. 4 steps, direct on the left lane, open."}
