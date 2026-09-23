@@ -660,3 +660,6 @@
 {"n":660,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Mast yard. Nobody past the east gutter. We hit in 7 steps. Direct on the left lane, open."}
 {"n":661,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard east gutter. Nia keeps the shutter for the hit. 8 steps, direct on the left lane, open."}
 {"n":662,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east gutter. direct left open. 2 steps. The shutter stays for the hit."}
+{"n":663,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the east gutter. We hit in 3 steps. Direct on the left lane, open."}
+{"n":664,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east gutter. Ivo keeps the shutter for the hit. 4 steps, direct on the left lane, open."}
+{"n":665,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east gutter. direct left open. 5 steps. The shutter stays for the hit."}
