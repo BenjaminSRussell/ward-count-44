@@ -507,3 +507,6 @@
 {"n":507,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east stair. Bess keeps the plywood for the hit. 8 steps, direct on the left lane, open."}
 {"n":508,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. direct left open. 2 steps. The plywood stays for the hit."}
 {"n":509,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east stair. We hit in 3 steps. Direct on the left lane, open."}
+{"n":510,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east stair. Matt keeps the plywood for the hit. 4 steps, direct on the left lane, open."}
+{"n":511,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east stair. direct left open. 5 steps. The plywood stays for the hit."}
+{"n":512,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the east stair. We hit in 6 steps. Direct on the left lane, open."}
