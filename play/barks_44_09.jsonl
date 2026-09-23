@@ -151,3 +151,6 @@
 {"n":151,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east stair. Bess keeps the drum for the hit. 7 steps, direct on the left lane, open."}
 {"n":152,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. direct left open. 8 steps. The drum stays for the hit."}
 {"n":153,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the east stair. We hit in 2 steps. Direct on the left lane, open."}
+{"n":154,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east stair. Matt keeps the badge door for the hit. 3 steps, direct on the left lane, open."}
+{"n":155,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. direct left open. 4 steps. The badge door stays for the hit."}
+{"n":156,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the east stair. We hit in 5 steps. Direct on the left lane, open."}
