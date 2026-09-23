@@ -536,3 +536,6 @@
 {"n":536,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the east stair. We hit in 2 steps. Direct on the left lane, open."}
 {"n":537,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east stair. Nia keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
 {"n":538,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east stair. direct left open. 4 steps. The plywood stays for the hit."}
+{"n":539,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Underpass. Nobody past the east stair. We hit in 5 steps. Direct on the left lane, open."}
+{"n":540,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
+{"n":541,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. direct left open. 7 steps. The plywood stays for the hit."}
